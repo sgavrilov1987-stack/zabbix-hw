@@ -49,7 +49,7 @@ vm.memory.size[pused]
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Задание 1](img/Zadanie1.png)`
+![Задание 1](https://github.com/sgavrilov1987-stack/zabbix-hw/blob/main/img/Zadanie1.png)`
 
 
 ---
@@ -91,7 +91,7 @@ Linux by Zabbix agent
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Задание 2 — хосты](img/Zadanie2.png)`
+![Задание 2 — хосты](https://github.com/sgavrilov1987-stack/zabbix-hw/blob/main/img/Zadanie2.png)`
 
 
 ---
@@ -130,7 +130,7 @@ CPU также успешно передаёт значения загрузки
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Задание 3 — Latest data](img/Zadanie3.png)`
+![Задание 3 — Latest data](https://github.com/sgavrilov1987-stack/zabbix-hw/blob/main/img/Zadanie3.png)`
 
 ### Задание 4
 
@@ -156,4 +156,4 @@ RAM utilization - gavrilovsv-2
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Задание 4 — пользовательский дашборд](img/Zadanie4.png)`
+![Задание 4 — пользовательский дашборд](https://github.com/sgavrilov1987-stack/zabbix-hw/blob/main/img/Zadanie4.png)`
