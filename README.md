@@ -49,7 +49,7 @@ vm.memory.size[pused]
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Задание 1](https://github.com/sgavrilov1987-stack/zabbix-hw/blob/main/img/Zadanie1.png)`
+![Задание 1](https://github.com/sgavrilov1987-stack/zabbix-hw/img/Zadanie1.png)`
 
 
 ---
